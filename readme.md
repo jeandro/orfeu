@@ -6,24 +6,35 @@ Este Projeto tem a intenção de migrar uma aplicação de automação Comercial
 //////////////////////////////////////////////////////
 
 DOCUMENTAÇÃO
+
 http://localhost:8080/swagger-ui.html#/
 
 /////////////////////////////////////////////////////
 
 BANCO DE DADOS
+
 POSTGRESQL 9.6
+
 username=postgres
+
 password=postgres
 
 /////////////////////////////////////////////////////
 
 Flyway
+
 Tabelas
+
 Aliquotas
+
 Grupos
+
 Produtos
+
 Cidades
+
 Clientes
+
 
 /////////////////////////////////////////////////////
 
