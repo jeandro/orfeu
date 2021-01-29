@@ -15,6 +15,8 @@ BANCO DE DADOS
 
 POSTGRESQL 9.6
 
+Banco=orfeu
+
 username=postgres
 
 password=postgres
