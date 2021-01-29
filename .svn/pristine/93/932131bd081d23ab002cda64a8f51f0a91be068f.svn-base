@@ -1,0 +1,15 @@
+-- Table: public.aliquotas
+
+create table public.aliquotas 
+(
+    CP_ALIQUOTAS     SERIAL PRIMARY KEY,
+    ALIQ_DESCRICAO   character varying (30) NOT NULL,
+    ALIQ_PERCENTUAL  numeric (15,2) NOT NULL,
+    ALIQ_CODIGO      character varying (3) NOT NULL
+);
+
+--Dados: public.aliquotas
+
+INSERT INTO ALIQUOTAS (CP_ALIQUOTAS, ALIQ_DESCRICAO, ALIQ_PERCENTUAL, ALIQ_CODIGO)
+               VALUES (3, '17 PORCENTO', 17, '02');
+               

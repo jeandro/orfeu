@@ -1,0 +1,20 @@
+//////////////////////////////////////////////////////
+http://localhost:6600/swagger-ui.html#/
+
+/////////////////////////////////////////////////////
+Conteudo do arquivo  executa Orfeu
+
+java -jar "Orfeu-api-1.0.0-SNAPSHOT.jar"
+pause
+
+/////////////////////////////////////////////////////
+Conteudo do Arquivo aliases do firebird
+# 
+# List of known database aliases 
+# ------------------------------ 
+# 
+# Examples: 
+# 
+  curtis_pontalina = D:\BancodeClientes\CONTROL.fdb
+#  
+/////////////////////////////////////////////////////
