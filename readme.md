@@ -1,24 +1,24 @@
 MISSÃO DO PROJETO
+Este Projeto tem a intenção de migrar uma aplicação de automação Comercial Desenvolvida em Delphi para uma API Rest
 
 //////////////////////////////////////////////////////
+DOCUMENTAÇÃO
 http://localhost:8080/swagger-ui.html#/
-http://192.168.0.20:8080/orfeu/swagger-ui.html#/
-http://177.87.43.85:8080/orfeu/swagger-ui.html#/
 
 /////////////////////////////////////////////////////
-Conteudo do arquivo  executa Orfeu
-
-java -jar "Orfeu-api-1.0.0-SNAPSHOT.jar"
-pause
+BANCO DE DADOS
+POSTGRESQL 9.6
+username=postgres
+password=postgres
 
 /////////////////////////////////////////////////////
-Conteudo do Arquivo aliases do firebird
-# 
-# List of known database aliases 
-# ------------------------------ 
-# 
-# Examples: 
-# 
-  curtis_pontalina = D:\BancodeClientes\CONTROL.fdb
-#  
+Flyway
+Tabelas
+Aliquotas
+Grupos
+Produtos
+Cidades
+Clientes
+
 /////////////////////////////////////////////////////
+
